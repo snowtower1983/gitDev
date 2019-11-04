@@ -1,4 +1,4 @@
 just for testing.
 
 new content from branch hot_fix.
-
+some new from master.
